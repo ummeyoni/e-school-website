@@ -1,0 +1,115 @@
+.navigation {
+    background-color: #F0FFF0;
+    padding: 15px 0px;
+}
+
+.bg-nav {
+    background-color: #F0FFF0;
+    margin: 0 120px;
+}
+
+.logo {
+    width: 180px;
+    height: 55px;
+}
+
+.button-style {
+    background-color: #21B573;
+    color: white;
+    border-radius: 20px;
+    padding: 5px 30px;
+    border: none;
+}
+
+.main-picture {
+    /*margin-top: 100px;*/
+    background-color: #F0FFF0;
+    /*height: 400px;
+    width: 1390px;*/
+    padding: 100px 0px 100px 0px;
+}
+
+.writting-part {
+    margin-left: 173px;
+}
+
+.image-part {
+    width: 550px;
+    height: 350px;
+}
+
+.card-image {
+    width: 100px;
+    height: 100px;
+}
+
+.card-book {
+    background-color: #F0FFF0;
+    border: none;
+    padding: 50px 0px;
+}
+
+.card-book:hover {
+    background-color: white;
+    box-shadow: 5px 5px 5px 10px lightgray;
+}
+
+.card-deck {
+    margin: 60px;
+}
+
+.course-card {
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+}
+
+.img-testimonial {
+    width: 100px;
+    height: 100px;
+    margin-left: 90px;
+}
+
+.testimonial-margin-bottom {
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+
+ul>li {
+    list-style-type: none;
+}
+
+.footer {
+    background-color: #282531;
+    color: white;
+    margin-top: 90px;
+}
+
+.footer-alignment {
+    padding: 50px 100px;
+}
+
+.copy-right {
+    margin-bottom: 30px;
+}
+
+.calendar-people {
+    width: 30px;
+    height: 30px;
+}
+
+.course-body-icon {
+    margin-top: 20px;
+}
+
+.card-book-text-color {
+    color: #413960;
+}
+
+.writting-part-span-text-color {
+    color: #21B573;
+}
+
+.writting-part-text-color {
+    color: red;
+}
